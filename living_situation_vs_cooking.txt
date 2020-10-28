@@ -1,0 +1,1 @@
+Using the found r-value of -0.17843, our r-squared correlation coefficient would be -0.03184. This would suggested there is a slightly negative, but insignificant, correlation between the frequency of cooking and living off campus compared to on campus.
