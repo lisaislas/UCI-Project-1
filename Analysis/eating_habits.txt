@@ -1,1 +1,1 @@
-Plotting the frequency in which students responded what their eating habits were and the frequency in which they engaged in these habits, many students choose to either eat out or cook for themselves compared to having their parents cook for them. Though since most students don't typically live with their parents while at school, this only applies to a smaller portion of our population.
+Using an r value of 0.0129380, our r-squared correlation coefficient would be 0.01674, meaning that there is no correlation between the parents' education level and the effect on eating out. 
