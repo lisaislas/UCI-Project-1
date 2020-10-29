@@ -18,4 +18,4 @@ We want to look at several questions that we came up with when looking at our da
     d. Is there any type of correlation between a student's weight and how frequently they eat out?
     
 ## Conclusions:
-Ultimately, we cannot use the data to come up with any significant conlclusions regarding the data collected. There were no significat correlations found where we could make any signification claims in our data. There appears to be no correlation between the parents' level of education and how frequently they eat out or how their children's (the students) eating habits.
+Ultimately, we cannot use the data to suggest there are any correlations between our data and the relationships we were expecting to find in them. There were no significat correlations found where we could make any signification claims in our data since they were too close to 0. There appears to be no correlation between the parents' level of education and how frequently they eat out or how their children's (the students) eating habits.
