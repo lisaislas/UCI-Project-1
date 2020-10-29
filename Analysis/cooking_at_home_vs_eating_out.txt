@@ -1,1 +1,1 @@
-Taking the r-value of 0.03580, our r-squared correlation coefficient would be 0.0013, meaning that there is almost no correlation between the frequency of which parents cooked at home and their level of education. 
+Taking the r-value of 0.03580, our r-squared correlation coefficient would be 0.0013, meaning that there is no correlation between the frequency of which parents cooked at home and their level of education. 

@@ -1,1 +1,1 @@
-Using an r value of 00129380, our r-squared correlation coefficient would be 0.01674, meaning that there is no significant correlation, if any at all, between the parents' education level and the effect on eating out. 
+Using an r value of 00129380, our r-squared correlation coefficient would be 0.01674, meaning that there is no correlation between the parents' education level and the effect on eating out. 
