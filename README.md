@@ -3,7 +3,7 @@
 ## Lets Eat!
 
 ### Hypothesis:
-How does a person's external environment and influences affect people's eating habits and perceptoin of food?
+How does a person's external environment and influences affect people's eating habits and perception of food?
 
 ### Questions:
 We want to look at several questions that we came up with when looking at our data set:
