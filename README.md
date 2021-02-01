@@ -1,5 +1,3 @@
-# UCI-Project-1
-
 ## Lets Eat!
 
 ### Hypothesis:
