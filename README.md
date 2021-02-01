@@ -9,12 +9,18 @@ We want to look at several questions that we came up with when looking at our da
     a. Any correlation between gender and exercise regimen?
     ![Gender](https://user-images.githubusercontent.com/60836219/106413388-d1584c80-63fe-11eb-8b85-b7b6fc029961.PNG)
     
+    
+    
     b. Does playing sports affect how often you exercise?
     ![Sports](https://user-images.githubusercontent.com/60836219/106413392-d2897980-63fe-11eb-86e2-b5f8eb3846f6.PNG)
     ![pie](https://user-images.githubusercontent.com/60836219/106413396-d3baa680-63fe-11eb-9651-503a41fc116b.PNG)
     
+    
+    
     c. Does living situation affect how often someone cook?
     ![Bar Chart](https://user-images.githubusercontent.com/60836219/106413401-d5846a00-63fe-11eb-83e2-b338be248831.PNG)
+    
+    
 2. How does parents' education influence earing habits?
     a. Any correlation between parents' education and student's eating habits?
     b. Are there any correlations between parents' education and how frequently they cook at home?
